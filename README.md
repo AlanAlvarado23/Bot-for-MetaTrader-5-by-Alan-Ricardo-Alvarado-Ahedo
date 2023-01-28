@@ -1,5 +1,5 @@
 # Bot for MetaTrader 5 by Alan Ricardo Alvarado Ahedo
-**Description**: Autonomous bot for trading in Python: trades in the stock market by MetaTrader 5 platform
+**About**: Autonomous bot for trading in Python: trades in the stock market by MetaTrader 5 platform
 
 ## English
 **Code autor**: Alan Ricardo Alvarado Ahedo
